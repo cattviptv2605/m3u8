@@ -1,0 +1,4 @@
+#EXT-X-VERSION:3
+#EXT-X-S#EXTM3U
+TREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
+http://4u.eagle4u.org:80/play/live.php?mac=00:1A:79:00:71:60&stream=1163840&extension=m3u8
