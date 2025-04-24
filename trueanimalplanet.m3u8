@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=186396&extension=m3u8
+https://dkl-o53d.cdn.akamaiz.com/goalthcom_x5/animal-planet/chunks.m3u8?nimblesessionid=13207714&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI1IDE6NDg6MjIgQU0maGFzaF92YWx1ZT1jMStYVTZIYnBCOHV5QktNRzkxQ3VBPT0mdmFsaWRtaW51dGVzPTIw
