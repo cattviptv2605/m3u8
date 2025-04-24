@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
-https://dkl-o53d.cdn.akamaiz.com/goalthcom_x5/trueexplorewild/chunks.m3u8?nimblesessionid=13209912&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI1IDI6MzY6NDcgQU0maGFzaF92YWx1ZT12cUZHd1hSbUZyQzk3TU8vd1drZEp3PT0mdmFsaWRtaW51dGVzPTIw
+http://playid.ddnsgeek.com:8080/live/Natt/12345/49.m3u8
